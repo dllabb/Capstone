@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.gcccd.java.FindMaxFileTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-08T10:06:49" hostname="DESKTOP-HJN8P4N" time="0.002">
+  <properties/>
+  <testcase name="BFS" classname="edu.gcccd.java.FindMaxFileTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
